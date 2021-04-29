@@ -1,0 +1,3 @@
+[wlancredentials]
+build_flags_wlan =  -DpSSID=\"WLANSSID\"
+                    -DpWLANPASSWORD=\"WLANPASSWORD\"
